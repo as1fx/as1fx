@@ -1,8 +1,20 @@
 # Asif Reja Mondal
 
+<div align="center" >
+  <img src="https://media.giphy.com/media/1u01IRKm3cKUH4GU1U/giphy.gif" alt="Gif" />
+</div>
+
+
+
+
+
+    
+
 ## Introduction
 
-Hi, I'm **Asif Reja Mondal**, a dedicated and passionate IT student currently pursuing **Information Technology** at **Dr. B.C. Roy Engineering College, Durgapur**. I thrive in environments that challenge my creativity and technical skills. I enjoy solving complex problems and am always eager to learn new technologies and methodologies. My aim is to become a proficient software developer with a strong foundation in both front-end and back-end development.
+<p align="justify">
+Hi, I'm <strong>Asif Reja Mondal</strong>, an enthusiastic IT student currently pursuing <strong>Information Technology</strong> at <strong>Dr. B.C. Roy Engineering College, Durgapur</strong>. I have a passion for solving complex problems and thrive in challenging environments that push my creativity and technical expertise. With a strong interest in full-stack development, I am continually expanding my knowledge in both front-end and back-end technologies. My goal is to become a proficient software developer and contribute to building innovative and efficient software solutions.
+</p>
 
 ---
 
