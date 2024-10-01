@@ -81,9 +81,18 @@ Hi, I'm <strong>Asif Reja Mondal</strong>, an enthusiastic IT student currently 
 Feel free to connect with me to explore collaboration opportunities, learn more about my projects, or discuss tech topics!
 
 ---
-<div align="center" style="width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=as1fx&show_icons=true&count_private=true&hide_border=true&bg_color=1c2833&&text_color=ffffff&card_width=1000" alt="Asif's GitHub stats" />
-</div>
+## Github Stats 
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=as1fx&show_icons=true&count_private=true&hide_border=true&bg_color=1c2833&&text_color=ffffff" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as1fx&hide_border=true&layout=compact&bg_color=1c2833&&text_color=ffffff" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
 
 ---
 
