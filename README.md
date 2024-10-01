@@ -20,14 +20,16 @@ Hi, I'm <strong>Asif Reja Mondal</strong>, an enthusiastic IT student currently 
 
 ### Programming Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) 
+
+
 
 ### Frameworks & Libraries:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -35,14 +37,20 @@ Hi, I'm <strong>Asif Reja Mondal</strong>, an enthusiastic IT student currently 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 
 
 ### Tools & Platforms:
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
+
+
+
+
+
+
 
 ### Development Environments:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
@@ -52,10 +60,12 @@ Hi, I'm <strong>Asif Reja Mondal</strong>, an enthusiastic IT student currently 
 
 ## Core Subjects:
 ![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-FF5733?style=for-the-badge&logo=algolia&logoColor=white) 
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-4285F4?style=for-the-badge&logo=google&logoColor=white) 
 ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-28A745?style=for-the-badge&logo=cisco&logoColor=white) 
 ![Database Management Systems](https://img.shields.io/badge/Database%20Management%20Systems-00758F?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-563D7C?style=for-the-badge&logo=java&logoColor=white) 
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-4285F4?style=for-the-badge&logo=google&logoColor=white) 
+
+
 
 ---
 
