@@ -1,4 +1,4 @@
-# Asif Reja Mondal - README
+# Asif Reja Mondal
 
 ## Introduction
 
