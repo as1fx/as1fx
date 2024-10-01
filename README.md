@@ -1,8 +1,6 @@
 # Asif Reja Mondal
 
-<div align="right" >
-  <img src="https://media.giphy.com/media/1u01IRKm3cKUH4GU1U/giphy.gif" alt="Gif" />
-</div>
+
 
 
 
@@ -70,6 +68,26 @@ Hi, I'm <strong>Asif Reja Mondal</strong>, an enthusiastic IT student currently 
 </a>
 
 ---
-
-
 Feel free to connect with me to explore collaboration opportunities, learn more about my projects, or discuss tech topics!
+
+---
+<div align="center" style="width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=as1fx&show_icons=true&count_private=true&hide_border=true&bg_color=1c2833&&text_color=ffffff&card_width=1000" alt="Asif's GitHub stats" />
+</div>
+
+---
+
+
+## View Count
+<div align="center" >
+<img src="https://komarev.com/ghpvc/?username=as1fx&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Created by <strong>Asif Reja Mondal</strong></div>
