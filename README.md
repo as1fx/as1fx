@@ -1,6 +1,6 @@
 # Asif Reja Mondal
 
-<div align="center" >
+<div align="right" >
   <img src="https://media.giphy.com/media/1u01IRKm3cKUH4GU1U/giphy.gif" alt="Gif" />
 </div>
 
