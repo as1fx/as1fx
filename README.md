@@ -70,10 +70,10 @@ Hi, I'm <strong>Asif Reja Mondal</strong>, an enthusiastic IT student currently 
 ---
 
 ## Contact:
-<a href="mailto:YourEmail@example.com">
+<a href="mailto:asifreja74@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://github.com/YourGitHubProfile">
+<a href="https://github.com/as1fx">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
