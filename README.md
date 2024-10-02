@@ -1,4 +1,4 @@
-# Asif Reja Mondal
+# Asif Reja Mondal  ![GitHub followers](https://img.shields.io/github/followers/as1fx?label=Follow&style=social)
 
 
 
@@ -8,7 +8,16 @@
 
     
 
-## Introduction
+<h2>
+  <img src="https://img.icons8.com/ios-filled/50/808080/tea.png" alt="Mug Hot Icon" width="20" height="20">
+   Introduction
+</h2>
+
+
+
+
+
+
 
 <p align="justify">
 Hi, I'm <strong>Asif Reja Mondal</strong>, an enthusiastic student currently pursuing <strong>Information Technology</strong> at <strong>Dr. B.C. Roy Engineering College, Durgapur</strong>. I have a passion for solving complex problems and thrive in challenging environments that push my creativity and technical expertise. With a strong interest in full-stack development, I am continually expanding my knowledge in both front-end and back-end technologies. My goal is to become a proficient software developer and contribute to building innovative and efficient software solutions.
@@ -16,7 +25,13 @@ Hi, I'm <strong>Asif Reja Mondal</strong>, an enthusiastic student currently pur
 
 ---
 
-## Skills & Technologies
+<h2>
+  <img src="https://img.icons8.com/ios-filled/50/808080/code.png" alt="Code Icon" width="16" height="16">
+Skills & Technologies
+</h2>
+
+
+
 
 ### Programming Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
@@ -58,7 +73,11 @@ Hi, I'm <strong>Asif Reja Mondal</strong>, an enthusiastic student currently pur
 
 ---
 
-## Core Subjects:
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/808080/book.png" alt="Book Icon" width="17" height="17">
+Core Subjects
+</h2>
+
 ![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-FF5733?style=for-the-badge&logo=algolia&logoColor=white) 
 ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-28A745?style=for-the-badge&logo=cisco&logoColor=white) 
 ![Database Management Systems](https://img.shields.io/badge/Database%20Management%20Systems-00758F?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -69,7 +88,10 @@ Hi, I'm <strong>Asif Reja Mondal</strong>, an enthusiastic student currently pur
 
 ---
 
-## Contact:
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/808080/address-book.png" alt="Address Book Icon" width="20" height="20">
+Contact Me
+</h2>
 <a href="mailto:asifreja74@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
@@ -81,7 +103,12 @@ Hi, I'm <strong>Asif Reja Mondal</strong>, an enthusiastic student currently pur
 Feel free to connect with me to explore collaboration opportunities, learn more about my projects, or discuss tech topics!
 
 ---
-## Github Stats 
+
+<h2>
+<img src="https://img.icons8.com/ios-filled/50/808080/layers.png" alt="Layer Group Icon" width="18" height="18">
+Github Stats 
+</h2>
+
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=as1fx&show_icons=true&count_private=true&hide_border=true&bg_color=1c2833&&text_color=ffffff" align="left" style="width: 100%" />
@@ -96,8 +123,12 @@ Feel free to connect with me to explore collaboration opportunities, learn more 
 
 ---
 
+<h2>
+    <img src="https://img.icons8.com/ios-filled/50/808080/visible.png" alt="Eye Icon" width="20" height="20">
+    View Count 
+</h2>
 
-## View Count
+
 <div align="center" >
 <img src="https://komarev.com/ghpvc/?username=as1fx&&style=flat-square" align="center" />
 </div>  
